@@ -1,5 +1,4 @@
-# final-project-team-9
-final-project-team-9 created by GitHub Classroom
+# Brick Breaker
 
 Overview:
 
@@ -7,27 +6,27 @@ The game is a single player game that has a layer of bricks that are arranged in
 
 Library used and how to pull into Eclipse:
 
-For our project we used the javax.swing library, which is already included in Eclipse so you do not need to download / import a library. Our java files are located within the SRC folder within the github repository (https://github.com/UPenn-CIT599/final-project-team-9). You will also need to pull in the music files, the high score list txt file, and the high score test list txt file that are located in the main project folder. 
+For our project we used the javax.swing library, which is already included in Eclipse so you do not need to download / import a library. Our java files are located within the SRC folder within the github repository (https://github.com/raheelb23/BrickBreaker). You will also need to pull in the music files, the high score list txt file, and the high score test list txt file that are located in the main project folder. 
 
 Once you have pulled everything in from github, if you navigate to the Runner.java file, you will be able to run the game. Upon running the code, you will be prompted with a screen like this: 
 
-![alt text](https://github.com/UPenn-CIT599/final-project-team-9/blob/master/Screen%20Shot%202020-04-23%20at%204.33.00%20PM.png)
+![alt text](https://github.com/raheelb23/BrickBreaker/blob/master/Screen%20Shot%202020-04-23%20at%204.33.00%20PM.png)
 
 Enter your name and select the difficulty you would like to play at and you are all set!
 
 The game play screen will look like this if you select ‘Medium’: 
 
-![alt text](https://github.com/UPenn-CIT599/final-project-team-9/blob/master/Screen%20Shot%202020-04-23%20at%204.34.15%20PM.png)
+![alt text](https://github.com/raheelb23/BrickBreaker/blob/master/Screen%20Shot%202020-04-23%20at%204.34.15%20PM.png)
 
 You will need to press ‘p’ to play the game. You can press ‘p’ to also pause game play. 
 
 Another view of the game if you select ‘Hard’:
 
-![alt text](https://github.com/UPenn-CIT599/final-project-team-9/blob/master/Screen%20Shot%202020-04-23%20at%204.53.46%20PM.png)
+![alt text](https://github.com/raheelb23/BrickBreaker/blob/master/Screen%20Shot%202020-04-23%20at%204.53.46%20PM.png)
 
 When game play is over, you will receive this message and the Main Menu screen will re-appear: 
 
-![alt text](https://github.com/UPenn-CIT599/final-project-team-9/blob/master/Screen%20Shot%202020-04-23%20at%204.40.31%20PM.png)
+![alt text](https://github.com/raheelb23/BrickBreaker/blob/master/Screen%20Shot%202020-04-23%20at%204.40.31%20PM.png)
 
 Functionalities of game:
 
